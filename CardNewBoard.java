@@ -1,11 +1,11 @@
 public class CardNewBoard {
 
     private String name;
-    private String idList = "5e9";
+    private String idList = "idList";
     private String id;
 
-    private String key = "abd";
-    private String token = "204";
+    private String key = "key";
+    private String token = "token";
 
     public String getKey() {
         return key;
